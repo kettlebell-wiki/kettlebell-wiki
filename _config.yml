@@ -1,5 +1,5 @@
 # (string) Title of your wiki
-title: The Kettlebell Wiki
+title: The Kettlebell Wiki!
 # (string) Description of your wiki
 description: A wiki for kettlebell enthusiasts.
 baseUrl: '/'
@@ -146,5 +146,6 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
 
 
