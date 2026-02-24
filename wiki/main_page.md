@@ -2,5 +2,5 @@
 redirect_from: "/"
 ---
 
-Welcome to the Kettebell Wiki, a wiki for kettlebell enthusiasts" 
+Welcome to the Kettebell Wiki, a wiki for kettlebell enthusiasts!
 
