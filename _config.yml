@@ -1,7 +1,7 @@
 # (string) Title of your wiki
-title: 
+title: The Kettlebell Wiki
 # (string) Description of your wiki
-description: 
+description: A wiki for kettlebell enthusiasts.
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -145,3 +145,4 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
