@@ -2,8 +2,6 @@
 title: The Kettlebell Wiki!
 # (string) Description of your wiki
 description: A wiki for kettlebell enthusiasts.
-domain: kettlebell-wiki.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://kettlebell-wiki.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -147,6 +145,7 @@ inc_before_page_list :
 inc_after_page_list :
 inc_before_post_list :
 inc_after_post_list :
+
 
 
 
