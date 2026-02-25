@@ -1,5 +1,8 @@
 ---
 published: true
+tags: [article]
+title: "Are you squatting your swing? The Squat-Hinge Continuum with Kettlebell Ballistics"
+author: Nicholas Danes
 ---
 
 #  Are you squatting your swing? The Squat-Hinge Continuum with Kettlebell Ballistics
