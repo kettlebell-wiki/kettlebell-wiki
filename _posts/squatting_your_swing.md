@@ -1,10 +1,10 @@
-------
+---
 published: true
 title:  "Are you squatting your swing? The Squat-Hinge Continuum with Kettlebell Ballistics"
 date:   2026-02-25 09:29:00 -0700
 author: Nicholas Danes
 tags: [article]
-------
+---
 
 In many form checks on this subreddit, there is often claims of "squatting your swing". However, with many modern hardstyle instructors, the range of acceptable squatting in the kettlebell ballistics (swing, clean, snatch) are not so binary. From StrongFirst Elite instructors, there is an acceptable range of hinge-squat that vary for the individual \[1,2\].
 
