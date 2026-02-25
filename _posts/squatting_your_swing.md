@@ -1,8 +1,5 @@
 ---
 published: true
-date:   2026-02-25 09:29:00 -0700
-author: Nicholas Danes
-tags: [article]
 ---
 
 #  Are you squatting your swing? The Squat-Hinge Continuum with Kettlebell Ballistics
