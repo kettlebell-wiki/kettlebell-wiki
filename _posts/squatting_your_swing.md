@@ -1,5 +1,5 @@
----
-layout: git-wiki-post
+------
+published: true
 title:  "Are you squatting your swing? The Squat-Hinge Continuum with Kettlebell Ballistics"
 date:   2026-02-25 09:29:00 -0700
 author: Nicholas Danes
