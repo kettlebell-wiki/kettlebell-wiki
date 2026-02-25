@@ -1,24 +1,19 @@
 ---
+layout: default
 title: "Tags"
 permalink: /tags.html
 ---
 
 <h1>Tags</h1>
 
+<div>
+<h1>Articles tagged with "{{ page.tag-name }}"</h1>
+<ul style='padding-top: 16px;'>
 
-<div id="tags-list">
-  {% for tag in site.tags %}
-    {% capture tag_name %}{{ tag | first }}{% endcapture %}
-    <div class="tag-group">
-      <h3 id="{{ tag_name | slugify }}">In #{{ tag_name | replace: "_", " " | capitalize }}:</h3>
-      <ul class="post-list">
-        {% for post in tag[1] %}
-          <li>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            - {{ post.date | date: "%b %-d, %Y" }}
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  {% endfor %}
+{% for post in site.posts %}
+    {% if post.tags contains page.tag-name %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
+    {% endif %}
+{% endfor %}
+</ul>
 </div>
