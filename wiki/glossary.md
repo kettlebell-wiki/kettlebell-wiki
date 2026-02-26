@@ -3,22 +3,21 @@
 ## Exercise index
 
 * **ABC** - Armor Building Complex, a double kb complex invented by Dan John, consisting of 2 cleans, 1 press and 3 front squats
-   * **Single kb ABC** - a single kb complex consisting of a clean and a press the first side, a hand-switch swing, clean and press the second side, two front squat the second side
+   * **Single Kettlebell ABC** - a single kb complex consisting of a clean and a press the first side, a hand-switch swing, clean and press the second side, two front squat the second side
 * **Clean**
-* **Clean & jerk (C&J, LC)** - 
-* **Clean & press (C&P)**
-* **C&P and C&J** - clean & press and clean & jerk. You'll generally do one clean, one press, one clean, one press, etc., and one of each is counted as one rep.
-* **Front squat (FS)** - a squat where you have one or two kettlebells in rack position
-* **Goblet squat** - a squat where you hold a single kettlebell in front of you
-* **Half snatch (HS/HSn)** - an exercise where you snatch one or two kettlebells, then drop to rack position
+* **Clean & Jerk (C&J, LC)**  
+* **Clean & Press (C&P)** -You'll generally do one clean, one press, one clean, one press, etc., and one of each is counted as one rep.
+* **Front Squat (FS)** - a squat where you have one or two kettlebells in rack position
+* **Goblet Squat** - a squat where you hold a single kettlebell in front of you
+* **Half Snatch (HS/HSn)** - an exercise where you snatch one or two kettlebells, then drop to rack position
 * **Jerk**
-* **Long cycle (LC)** - clean & jerk
+* **Long Cycle (LC)** - clean & jerk
 * **Lunge**
-* **Press (strict press)**
-* **Push press**
-* **Snatch (Sn)** - an exercise in the hinge famiily where
+* **Press (Strict Press)**
+* **Push Press**
+* **Snatch (Sn)** 
 * **Swing**
-* **TGU** - Turkish getup
+* **TGU** - Turkish Getup
 
 ## Kettlebell terminology
 
