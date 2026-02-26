@@ -93,12 +93,12 @@ The “big 6” movements of kettlebell training you will see online are:
 
 1. Swing
 2. Squat
-3. Press
-4. Clean
+3. Clean
+4. Press
 5. Snatch
 6. Turkish Get-up
 
-Although you are free to learn them in any order, we recommend learning them in the order listed (or simultaneously with a focus on order). 
+The hardstyle kettlebell schools of RKC and StrongFirst recommend learning these movements first. However, there is no requirement to learn all of these exercises to see benefits of kettlebell training. Please take a look at our programs to see how these exercises are utilized. 
 
 ### Training terms (Reps, Sets, Complex, Chain, Flow, Ladder, etc)
 
