@@ -85,7 +85,7 @@ Hardstyle was popularized by Pavel Tsatsouline in the Late 90’s/Early 2000’s
 
 Girevoy Sport (GS), also known as kettlebell sport, is older than Hardstyle, and has been a competitive sport in Eastern Europe and Russia since the late 1960’s. In the sport, the competitive lifts are the Snatch, Jerk, Long Cycle (Clean and Jerk). The competition format is a 10 minute set of one of these exercises for as many reps as possible within the time limit. Because of this, there is an emphasis on **efficiency** on the lifts, including changes on how a swing is performed, the rack position, and more, compared to hardstyle training.
 
-On the subreddit you may see the term **Hybrid style** to describe technique. This simply just means adopting technique principles from both Hardstyle and GS.
+Youu may see the term **Hybrid style** to describe technique. This simply just means adopting technique principles from both Hardstyle and GS.
 
 ### Which exercises to learn first with kettlebells?
 
@@ -158,7 +158,7 @@ Dan John
 
 ## Coaching / Personal Training 
 
-Although we cannot make specific recommendations on people, we recommend anyone interested in kettlebell training to spend some time with a trainer and/or kettlebell coach. This can be done in-person or virtually. There are many great coaches who hang out in this subreddit. Although we do not allow for explicit self-promotion, we encourage folks to reach out to coaches privately and get coaching from someone they’ve interacted with here in the community.
+Although we cannot make specific recommendations on people, we recommend anyone interested in kettlebell training to spend some time with a trainer and/or kettlebell coach. This can be done in-person or virtually. 
 
 ### Hardstyle Coaching (Dragondoor, StrongFirst)
 
